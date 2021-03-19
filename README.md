@@ -3,7 +3,7 @@ ________________________
 --------------------------
 
 
-##Computational Thinking of four key areas
+## Computational Thinking of four key areas
 * #### Problem decomposition
     - Breaking problems into smaller parts that are easier to solve
 * #### Pattern Matching
