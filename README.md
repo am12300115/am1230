@@ -24,7 +24,8 @@
 Computers are a **tool for performing calculations**, and computers in a modern sense have concepts of **electronic, digital, and stored program concept** in addition to computation.
 
 ```
-Many activities in modern society are increasingly dependent on computers, and computers are doing human activities on behalf of humans. The use of computers, or the way of thinking using computing, is essential!!
+Many activities in modern society are increasingly dependent on computers, and computers are doing human activities on behalf of humans.
+The use of computers, or the way of thinking using computing, is essential!!
 ```
 --------------------------------------------------
 ## Benefits of Social Computing Education
